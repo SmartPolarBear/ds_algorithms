@@ -68,7 +68,7 @@ int main()
 		int u = 0, v = 0, w = 0;
 		cin >> u >> v >> w;
 		add(u, v, w);
-		add(v, u, w);
+//		add(v, u, w);
 	}
 
 	dijkstra(s);
