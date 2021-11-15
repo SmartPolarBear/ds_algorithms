@@ -10,8 +10,8 @@ As significant elements of any project, data structures and algorithms worth pra
 | :-------------------------: | :----: |
 |  Dijkstra's shortest path   |   ⭕    |
 |   Kruskal and Prim's MST    |   ⭕    |
-|        Tarjan's SCC         |   ❌    |
-|     Tarjan's cut point      |   ❌    |
+|        Tarjan's SCC         |   ⭕    |
+|     Tarjan's cut point      |   ⭕    |
 |        Tarjan's LCA         |   ❌    |
 |          Topo sort          |   ❌    |
 |          A\*/IDA\*          |   ❌    |
