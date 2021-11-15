@@ -39,7 +39,7 @@ As significant elements of any project, data structures and algorithms worth pra
 
 |                Name                | Status |
 | :--------------------------------: | :----: |
-|            Binary heap             |   ❌    |
+|            Binary heap             |   ⭕    |
 |                 ST                 |   ❌    |
 |            Segment tree            |   ❌    |
 | Binary indexed tree / Fenwick tree |   ❌    |
