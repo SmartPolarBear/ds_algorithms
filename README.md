@@ -31,7 +31,7 @@ As significant elements of any project, data structures and algorithms worth pra
 
 |    Name    | Status |
 | :--------: | :----: |
-|    KMP     |   ❌    |
+|    KMP     |   ⭕   |
 | Union find |   ❌    |
 | Divide and conquer |   ❌    |
 
