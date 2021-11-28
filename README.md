@@ -13,7 +13,7 @@ As significant elements of any project, data structures and algorithms worth pra
 |        Tarjan's SCC         |   ⭕    |
 |     Tarjan's cut point      |   ⭕    |
 |        Tarjan's LCA         |   ❌    |
-|          Topo sort          |   ❌    |
+|          Topo sort          |   ⭕    |
 |          A\*/IDA\*          |   ❌    |
 | Matching of bipartite graph |   ❌    |
 
